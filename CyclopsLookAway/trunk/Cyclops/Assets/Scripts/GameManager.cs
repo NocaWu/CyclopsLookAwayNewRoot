@@ -98,11 +98,9 @@ public class GameManager : MonoBehaviour {
 		}
 
 
-//		if (hasEnded && Time.time - timeGameEnded > 2f) {
-//			if (Input.GetMouseButton (0)) {
-//				async.allowSceneActivation = true;
-//			}
-//		}
+		if (hasEnded && Time.time - timeGameEnded > 20f) {
+				async.allowSceneActivation = true;
+		}
 
 	}
 
