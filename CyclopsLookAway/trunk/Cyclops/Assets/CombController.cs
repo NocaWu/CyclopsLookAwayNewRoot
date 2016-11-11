@@ -15,7 +15,7 @@ public class CombController : MonoBehaviour {
 	Animator mouthAnim;
 	AudioSource mouthAud;
 
-	ParticleSystem clickParticle;
+	public ParticleSystem clickParticle;
 
 	// Use this for initialization
 	void Start () {
@@ -25,7 +25,7 @@ public class CombController : MonoBehaviour {
 		mouthAud.volume = 0;
 		mouthAud.Play ();
 
-		clickParticle = cursor.GetComponentInChildren<ParticleSystem> ();
+		//clickParticle = cursor.GetComponentInChildren<ParticleSystem> ();
 	}
 	
 	// Update is called once per frame

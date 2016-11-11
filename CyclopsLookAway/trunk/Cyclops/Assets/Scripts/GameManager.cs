@@ -9,6 +9,8 @@ using UnityEngine.EventSystems;
 
 public class GameManager : MonoBehaviour {
 
+	public ParticleSystem cursorPart;
+
 	public AudioClip[] stingnoises;
 	public AudioClip[] winGrunts;
 	public AudioClip[] loseGrunts;
@@ -64,6 +66,7 @@ public class GameManager : MonoBehaviour {
 	string message = "";
 
 	void Start () {
+		cursorPart.Play ();
 		StopAllCoroutines ();
 		//SceneManager.UnloadScene ("Menu");
 		bitesPerAnim = comb.bitesPerAnim;
