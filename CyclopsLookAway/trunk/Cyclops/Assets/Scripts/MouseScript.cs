@@ -35,6 +35,7 @@ public class MouseScript : MonoBehaviour {
 	void Awake() {
 		sizeX = cursorSize;
 		sizeY = cursorSize;
+		//gameObject.GetComponent<TrailRenderer> ().sortingOrder = 100;
 	}
 
 //	void Start() 
