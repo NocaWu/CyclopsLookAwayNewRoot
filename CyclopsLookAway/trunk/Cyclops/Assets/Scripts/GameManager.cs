@@ -98,7 +98,7 @@ public class GameManager : MonoBehaviour {
 		}
 
 
-		if (hasEnded && Time.time - timeGameEnded > 20f) {
+		if (hasEnded && Time.time - timeGameEnded > 30f) {
 				async.allowSceneActivation = true;
 		}
 
