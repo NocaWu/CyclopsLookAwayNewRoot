@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 5b6074d5a742d45558223dfd5b6a917b
+timeCreated: 1466022989
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EyeballDizzy_0
+    21300002: EyeballDizzy_1
+    21300004: EyeballDizzy_2
+    21300006: EyeballDizzy_3
+    21300008: EyeballDizzy_4
+    21300010: EyeballDizzy_5
+    21300012: EyeballDizzy_6
+    21300014: EyeballDizzy_7
+    21300016: EyeballDizzy_8
+    21300018: EyeballDizzy_9
+    21300020: EyeballDizzy_10
+    21300022: EyeballDizzy_11
+    21300024: EyeballDizzy_12
+    21300026: EyeballDizzy_13
+    21300028: EyeballDizzy_14
+    21300030: EyeballDizzy_15
+    21300032: EyeballDizzy_16
+    21300034: EyeballDizzy_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: EyeballDizzy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 80.32793}
+        - {x: -114, y: -78.67207}
+        - {x: 114, y: -78.67207}
+        - {x: 114, y: 80.32793}
+    - name: EyeballDizzy_1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.94444, y: 80.32793}
+        - {x: -113.94444, y: -78.67207}
+        - {x: 115.05556, y: -78.67207}
+        - {x: 115.05556, y: 80.32793}
+    - name: EyeballDizzy_2
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.888885, y: 80.32793}
+        - {x: -113.888885, y: -78.67207}
+        - {x: 114.111115, y: -78.67207}
+        - {x: 114.111115, y: 80.32793}
+    - name: EyeballDizzy_3
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.833374, y: 80.32793}
+        - {x: -113.833374, y: -78.67207}
+        - {x: 115.166626, y: -78.67207}
+        - {x: 115.166626, y: 80.32793}
+    - name: EyeballDizzy_4
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.77777, y: 80.32793}
+        - {x: -113.77777, y: -78.67207}
+        - {x: 114.22223, y: -78.67207}
+        - {x: 114.22223, y: 80.32793}
+    - name: EyeballDizzy_5
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.72229, y: 80.32793}
+        - {x: -113.72229, y: -78.67207}
+        - {x: 115.27771, y: -78.67207}
+        - {x: 115.27771, y: 80.32793}
+    - name: EyeballDizzy_6
+      rect:
+        serializedVersion: 2
+        x: 6168
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.66675, y: 80.32793}
+        - {x: -113.66675, y: -78.67207}
+        - {x: 114.33325, y: -78.67207}
+        - {x: 114.33325, y: 80.32793}
+    - name: EyeballDizzy_7
+      rect:
+        serializedVersion: 2
+        x: 7196
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.611206, y: 80.32793}
+        - {x: -113.611206, y: -78.67207}
+        - {x: 115.388794, y: -78.67207}
+        - {x: 115.388794, y: 80.32793}
+    - name: EyeballDizzy_8
+      rect:
+        serializedVersion: 2
+        x: 8224
+        y: 713
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.55554, y: 80.32793}
+        - {x: -113.55554, y: -78.67207}
+        - {x: 114.44446, y: -78.67207}
+        - {x: 114.44446, y: 80.32793}
+    - name: EyeballDizzy_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114, y: 79}
+        - {x: -114, y: -79}
+        - {x: 114, y: -79}
+        - {x: 114, y: 79}
+    - name: EyeballDizzy_10
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.94444, y: 79}
+        - {x: -113.94444, y: -79}
+        - {x: 115.05556, y: -79}
+        - {x: 115.05556, y: 79}
+    - name: EyeballDizzy_11
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.888885, y: 79}
+        - {x: -113.888885, y: -79}
+        - {x: 114.111115, y: -79}
+        - {x: 114.111115, y: 79}
+    - name: EyeballDizzy_12
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.833374, y: 79}
+        - {x: -113.833374, y: -79}
+        - {x: 115.166626, y: -79}
+        - {x: 115.166626, y: 79}
+    - name: EyeballDizzy_13
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.77777, y: 79}
+        - {x: -113.77777, y: -79}
+        - {x: 114.22223, y: -79}
+        - {x: 114.22223, y: 79}
+    - name: EyeballDizzy_14
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.72229, y: 79}
+        - {x: -113.72229, y: -79}
+        - {x: 115.27771, y: -79}
+        - {x: 115.27771, y: 79}
+    - name: EyeballDizzy_15
+      rect:
+        serializedVersion: 2
+        x: 6168
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.66675, y: 79}
+        - {x: -113.66675, y: -79}
+        - {x: 114.33325, y: -79}
+        - {x: 114.33325, y: 79}
+    - name: EyeballDizzy_16
+      rect:
+        serializedVersion: 2
+        x: 7196
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.611206, y: 79}
+        - {x: -113.611206, y: -79}
+        - {x: 115.388794, y: -79}
+        - {x: 115.388794, y: 79}
+    - name: EyeballDizzy_17
+      rect:
+        serializedVersion: 2
+        x: 8224
+        y: 0
+        width: 1028
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -113.55554, y: 79}
+        - {x: -113.55554, y: -79}
+        - {x: 114.44446, y: -79}
+        - {x: 114.44446, y: 79}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
